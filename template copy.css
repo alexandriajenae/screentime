@@ -7,7 +7,7 @@ Please contact at SethPArcher@gmail.com with questions.*/
 
 body {
     font-family: montserrat, sans-serif;
-    background-color: #FFF;
+    background-color: #F8E4F7;
     color: #030406;
 }
 
@@ -32,7 +32,8 @@ h2 {
 h3 {
     font-size: 16px;
     margin: 0;
-    padding: 0;
+    padding: 0 20%;
+	color:#979296
 }
 
 .date{
